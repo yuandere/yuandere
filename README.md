@@ -1,6 +1,6 @@
 👋 Hey, my name is **Derek** and I am a Full Stack Developer 🤠
 
-🎈 I’m experienced but always continuing to hone my skills in:
+🎈 I have experience in but am always continuing to hone my skills with:
   - Javascript
   - HTML/CSS
   - React
