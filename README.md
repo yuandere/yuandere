@@ -1,8 +1,7 @@
-👋 Hey, my name is **Derek** and I am a full stack developer 🤠 
+👋 Hey, my name is **Derek** and I am a full stack developer 🤠
 
-💻 Currently improving skills with React, Node, and TypeScript.
+💻 At the moment I'm probably working on something with TypeScript, React, and Node.
 
-🌱 I can't resist a challenge and would love to be part of an organization where I can create exciting things for you.
 
 
 📧 [Collab? Kudos? Contact me!](mailto:derek.lee881@gmail.com)
