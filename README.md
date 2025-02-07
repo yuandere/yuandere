@@ -1,5 +1,4 @@
-👋 Hey, my name is **Derek** and I am a full stack developer 🤠
-
+My name is Derek and I like to make stuff for the web 🤠💻
 
 
 📧 [Contact me](mailto:derek.lee881@gmail.com)
