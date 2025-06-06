@@ -1,7 +1,7 @@
-My name is Derek and I like to make stuff for the web 🤠💻
+I like to make stuff for the web 🤠💻
 
 
-📧 [Contact me](mailto:derek.lee881@gmail.com)
+📧 [Contact me](mailto:yuandere@proton.me)
 
 <!---
 yuandere/yuandere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
